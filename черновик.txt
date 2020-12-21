@@ -1,0 +1,11 @@
+
+        <div id="templatemo_slider"> >Создание макетов любой сложности в кратчайшие сроки.</div>
+            
+            <form class="gorizontal_form block_3_form form_1">
+				<input name="name" class="input_clear input_name" type="text" placeholder="Ваше имя">
+				<input name="phone" class="input_clear input_phone" type="text" placeholder="Ваш телефон ">
+				<input name="email" class="input_clear input_email" type="text" placeholder="Ваш email">
+				<input type="submit" class="yellow_gradient" value="Отправить заявку" onclick="yaCounter19326079.reachGoal('order'); return true;">
+            </form>            
+        
+        </div>  
